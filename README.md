@@ -22,7 +22,7 @@ The Redmi K20 Pro / Mi 9T Pro (codenamed _"raphael"_) is a flagship smartphone f
 
 ## Device picture
 
-![Redmi K20 Pro / Mi 9T Pro](https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/beee478168e5c4fd0d66369386fddbbe.jpg)
+![Redmi K20 Pro / Mi 9T Pro](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k20pro-6.jpg)
 
 
 ## Copyright
